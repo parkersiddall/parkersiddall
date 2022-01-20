@@ -3,7 +3,7 @@
 Here's some of the stuff I use GitHub for:
 
 - 🔭 Projects & experiments
-  - [Jamtrackers](https://jamtrackers.com)
+  - [Jamtrackers](https://www.jamtrackers.com/)
   - [Bookmarks](https://bookmarks-by-parker.herokuapp.com/) (with pretty pictures from reddit)
   - [Mentor Match](https://github.com/parkersiddall/mentor_match)
 
