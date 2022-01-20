@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here some of the stuff I use GitHub for:
+Here's some of the stuff I use GitHub for:
 
 - 🔭 Projects & experiments
   - [Jamtrackers](https://jamtrackers.com)
